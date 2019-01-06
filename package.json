@@ -1,0 +1,31 @@
+{
+  "name": "hw-nodeexpresshandlebars-burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kteacherbecomescoder/HW-NodeExpressHandlebars-Burger.git"
+  },
+  "keywords": [
+    "handlebars",
+    "express",
+    "mysql"
+  ],
+  "author": "Eric Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kteacherbecomescoder/HW-NodeExpressHandlebars-Burger/issues"
+  },
+  "homepage": "https://github.com/kteacherbecomescoder/HW-NodeExpressHandlebars-Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12",
+    "mysql": "^2.16.0",
+    "node": "^11.3.0"
+  }
+}
