@@ -14,7 +14,7 @@ This burger logger uses MySQL, Node, Express, Handlebars and a homemade ORM. It 
 
 * The app will store every burger in a database, whether devoured or not.
 
-Heroku App Link:  https://radiant-shore-58098.herokuapp.com/
+View the app live on Heroku:  https://radiant-shore-58098.herokuapp.com/
 
 ### Technologies Used:
 
