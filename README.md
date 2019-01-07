@@ -1,8 +1,8 @@
-# HW-NodeExpressHandlebars-Burger
+## HW-NodeExpressHandlebars-Burger
 
 Node Express Handlebars
 
-A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
+This burger logger uses MySQL, Node, Express, Handlebars and a homemade ORM. It also uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
 
 ### How it works:
 
@@ -74,3 +74,7 @@ Heroku App Link:  https://radiant-shore-58098.herokuapp.com/
 ├── server.js
 
 ```
+
+`Screenshot of Application`
+
+![Alt text](/public/assets/image/burger_view.png?raw=true "Optional Title")
