@@ -2,7 +2,7 @@
 
 Node Express Handlebars
 
-This burger logger uses MySQL, Node, Express, Handlebars and a homemade ORM. It also uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
+This burger app uses MySQL, Node, Express, Handlebars and a homemade ORM. It also uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
 
 ### How it works:
 
